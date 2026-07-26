@@ -86,6 +86,3 @@ The notebook includes:
 - single-market breakdowns
 - walk-forward return, Sharpe, and drawdown charts
 - cross-universe walk-forward charts
-
-If you want the notebook to regenerate results, uncomment the optional search
-cell near the top.
